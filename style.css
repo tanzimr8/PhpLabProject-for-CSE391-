@@ -1,0 +1,46 @@
+
+.cover{
+	background: url("img/cover.jpg") ;
+	height: 900px;
+	text-align: center;
+	color: #fff;
+	
+	padding-top: 200px;
+	margin-bottom: -123px;
+
+}
+.cover p{
+	font-size: 50px;
+
+	font-weight: 500px;
+	font-family: Rockwell Extra Bold, Rockwell Bold, monospace;
+	text-shadow: 3px black;
+}
+
+#form{
+	font-size:17px;
+	font-family: monaco, Consolas, Lucida Console, monospace;
+}
+#form h3{
+	
+}
+.navbar{
+	overflow: hidden;
+	position: fixed;
+	top:0;
+}
+.appoints{
+	width: 400px;
+	color: #fff;
+	font-size: 20px;
+	line-height: 44px;
+	font-family: Aldrich;
+	text-shadow: 1px 1px #000;
+	border:2px solid #fff;
+	padding: 10px;
+}
+.appoints a{
+	text-decoration: none;
+
+}
+
